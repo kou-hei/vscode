@@ -1,0 +1,12 @@
+@charset "utl-8"
+
+
+h1 {
+    border-left: solid 5px red;
+    padding-left: 10px;
+}
+
+img { 
+    width: 100px;
+}
+
